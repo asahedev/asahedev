@@ -18,7 +18,7 @@ As a seasoned engineer, I'm excited to channel my problem-solving skills into th
 ## Contact me
 [
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-](www.linkedin.com/in/asa-hellstrand)
+](https://www.linkedin.com/in/asa-hellstrand)
 
 <!--
 **asahedev/asahedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
