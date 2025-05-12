@@ -38,9 +38,10 @@ As a **seasoned engineer**, I'm channeling my problem-solving mindset into the c
 - 🤖 Exploring **ML fundamentals** like regression, classification, and neural networks
 - 📊 Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
 
+<!--
 ---
 
-<!--
+
 ## 🧩 Featured Projects *(Coming Soon)*
 
 
