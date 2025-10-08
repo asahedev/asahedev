@@ -1,6 +1,6 @@
 # 👋 Hi friends
 
-As a **seasoned engineer**, I'm channeling my problem-solving mindset into the creative realm of **software development** and now expanding into the exciting world of **machine learning**. I'm passionate about building **clean, beautiful, and user-friendly** experiences — whether it's a responsive web app or a data-driven model.
+As a **seasoned engineer**, I'm channeling my problem-solving mindset into the creative realm of **software development** and now expanding into the exciting world of **machine learning** and **data science**. I'm passionate about building **clean, beautiful, and user-friendly** experiences — whether it's a responsive web app or a data-driven model.
 
 > Let's join forces and create something meaningful together!
 
