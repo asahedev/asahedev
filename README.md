@@ -1,14 +1,14 @@
-# 👋 Hi friends
+# 👋 Hello
 
-As a **seasoned engineer**, I'm channeling my problem-solving mindset into the creative realm of **software development** and now expanding into the exciting world of **machine learning** and **data science**. I'm passionate about building **clean, beautiful, and user-friendly** experiences — whether it's a responsive web app or a data-driven model.
+I'm a **seasoned engineer** bringing a strong problem-solving foundation to **software development**, with a growing focus on **machine learning** and **data science**. I'm passionate about building **clean, intuitive, and impactful** solutions—from responsive web applications to data-driven models that deliver real value.
 
-> Let's join forces and create something meaningful together!
+> I'm always open to collaboration on meaningful projects. Let's connect and build something great together!
 
 ---
 
 ## 💼 What I Love Building
 
-🧠 **Machine Learning Projects** – From data wrangling to training models  
+🧠 **Machine Learning & Data Science Projects** – From data wrangling to training models  
 🎯 **Human-centered Tech** – Apps that make a positive impact
 ✨ **Interactive Frontend Interfaces** – Clean and accessible 
 
@@ -38,9 +38,13 @@ As a **seasoned engineer**, I'm channeling my problem-solving mindset into the c
 - 🤖 Exploring **ML fundamentals** like regression, classification, and neural networks
 - 📊 Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
 
+---
 
+## 🧩 Featured Projects
 
-  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asahedev&repo=tumor-diagnostics-classification&theme=light)](https://github.com/asahedev/tumor-diagnostics-classification)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asahedev&repo=customer-churn-prediction&theme=light)](https://github.com/asahedev/customer-churn-prediction)
+ 
 
 
 <!--
