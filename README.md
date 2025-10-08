@@ -59,8 +59,6 @@ As a **seasoned engineer**, I'm channeling my problem-solving mindset into the c
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/asa-hellstrand)
 
-Let's connect and collaborate on projects that blend creativity with intelligence 🌍✨
-
 ---
 
 <!--
