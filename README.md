@@ -1,6 +1,6 @@
 # 👋 Hi friends
 
-As a **seasoned engineer**, I'm channeling my problem-solving mindset into the creative realm of **frontend development** and now expanding into the exciting world of **machine learning**. I'm passionate about building **clean, beautiful, and user-friendly** experiences — whether it's a responsive web app or a data-driven model.
+As a **seasoned engineer**, I'm channeling my problem-solving mindset into the creative realm of **software development** and now expanding into the exciting world of **machine learning**. I'm passionate about building **clean, beautiful, and user-friendly** experiences — whether it's a responsive web app or a data-driven model.
 
 > Let's join forces and create something meaningful together!
 
@@ -8,9 +8,9 @@ As a **seasoned engineer**, I'm channeling my problem-solving mindset into the c
 
 ## 💼 What I Love Building
 
-✨ **Interactive Frontend Interfaces** – Clean, accessible, and delightful  
 🧠 **Machine Learning Projects** – From data wrangling to training models  
 🎯 **Human-centered Tech** – Apps that make a positive impact
+✨ **Interactive Frontend Interfaces** – Clean and accessible 
 
 ---
 
@@ -34,7 +34,7 @@ As a **seasoned engineer**, I'm channeling my problem-solving mindset into the c
 
 ## 🚀 Current Learning Journey
 
-- 🌱 Deepening my understanding of **React**
+- 🌱 Deepening my understanding of **Data Science**
 - 🤖 Exploring **ML fundamentals** like regression, classification, and neural networks
 - 📊 Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
 
