@@ -38,9 +38,18 @@ As a **seasoned engineer**, I'm channeling my problem-solving mindset into the c
 - 🤖 Exploring **ML fundamentals** like regression, classification, and neural networks
 - 📊 Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
 
-<!--
----
 
+
+  
+
+
+<!--
+---   
+
+## My Most Used Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asahedev&layout=compact)
+![](https://raw.githubusercontent.com/asahedev/github-profile-summary-cards/master/profile-summary-card-output/default/2-most-commit-language.svg)
 
 ## 🧩 Featured Projects *(Coming Soon)*
 
