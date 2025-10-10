@@ -9,7 +9,7 @@ I'm a **seasoned engineer** bringing a strong problem-solving foundation to **so
 ## 💼 What I Love Building
 
 🧠 **Machine Learning & Data Science Projects** – From data wrangling to training models  
-🎯 **Human-centered Tech** – Apps that make a positive impact
+🎯 **Human-centered Tech** – Apps that make a positive impact <br>
 ✨ **Interactive Frontend Interfaces** – Clean and accessible 
 
 ---
