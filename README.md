@@ -42,15 +42,19 @@ I'm a **seasoned engineer** bringing a strong problem-solving foundation to **so
 
 ## 🧩 Featured Projects
 
-[![Repo Card](https://github-readme-stats-1-asahedevs-projects.vercel.app/api/pin/?username=asahedev&repo=tumor-diagnostics-classification&theme=light)](https://github.com/asahedev/tumor-diagnostics-classification)
+ - [Tumor Diagnostics Classification](https://github.com/asahedev/tumor-diagnostics-classification)  
+  A machine learning project to classify tumor types from medical data.
 
+- [Customer Churn Prediction](https://github.com/asahedev/customer-churn-prediction)  
+  A predictive model to identify customers likely to churn.
+
+
+<!---
+[![Repo Card](https://github-readme-stats.vercel.app/api?username=asahedev&repo=tumor-diagnostics-classification&theme=light)](https://github.com/asahedev/tumor-diagnostics-classification)
 [![Repo Card](https://github-readme-stats.vercel.app/api?username=asahedev&repo=customer-churn-prediction&theme=light)](https://github.com/asahedev/customer-churn-prediction)
- 
 
-
-<!--
----   
-
+-->   
+<!---
 ## My Most Used Programming Languages
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asahedev&repo=tumor-diagnostics-classification&theme=light)](https://github.com/asahedev/tumor-diagnostics-classification)
