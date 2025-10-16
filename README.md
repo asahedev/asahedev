@@ -38,6 +38,8 @@ I'm a **seasoned engineer** bringing a strong problem-solving foundation to **so
 - 🤖 Exploring **ML fundamentals** like regression, classification, and neural networks
 - 📊 Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
 
+<!---
+
 ---
 
 ## 🧩 Featured Projects
@@ -49,7 +51,7 @@ I'm a **seasoned engineer** bringing a strong problem-solving foundation to **so
   A predictive model to identify customers likely to churn.
 
 
-<!---
+
 [![Repo Card](https://github-readme-stats.vercel.app/api?username=asahedev&repo=tumor-diagnostics-classification&theme=light)](https://github.com/asahedev/tumor-diagnostics-classification)
 [![Repo Card](https://github-readme-stats.vercel.app/api?username=asahedev&repo=customer-churn-prediction&theme=light)](https://github.com/asahedev/customer-churn-prediction)
 
