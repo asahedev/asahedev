@@ -1,12 +1,12 @@
 # 👋 Hello
 
-I'm a **seasoned engineer** bringing a strong problem-solving foundation to **software development**, with a growing focus on **machine learning** and **data science**. I'm passionate about building **clean, intuitive, and impactful** solutions—from responsive web applications to data-driven models that deliver real value.
+I'm an **engineer** bringing a strong problem-solving foundation to **software development**, with a growing focus on **machine learning** and **data science**. I'm passionate about building **clean, intuitive, and impactful** solutions—from responsive web applications to data-driven models that deliver real value.
 
 > I'm always open to collaboration on meaningful projects. Let's connect and build something great together!
 
 ---
 
-## 💼 What I Love Building
+## 🧩 What I Love Building
 
 **Machine Learning & Data Science Projects** – From data wrangling to training models  
 **Human-centered Tech** – Apps that make a positive impact <br>
@@ -37,12 +37,13 @@ I'm a **seasoned engineer** bringing a strong problem-solving foundation to **so
 - Deepening my understanding of **Data Science**
 - Exploring **ML fundamentals** like regression, classification, and neural networks
 - Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
+- Learning more about AI agents and orchestration
 
 <!---
 
 ---
 
-## 🧩 Featured Projects
+## 💼 Featured Projects
 
  - [Tumor Diagnostics Classification](https://github.com/asahedev/tumor-diagnostics-classification)  
   A machine learning project to classify tumor types from medical data.
