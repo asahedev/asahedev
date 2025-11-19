@@ -8,21 +8,21 @@ I'm a **seasoned engineer** bringing a strong problem-solving foundation to **so
 
 ## 💼 What I Love Building
 
-🧠 **Machine Learning & Data Science Projects** – From data wrangling to training models  
-🎯 **Human-centered Tech** – Apps that make a positive impact <br>
-✨ **Interactive Frontend Interfaces** – Clean and accessible 
+**Machine Learning & Data Science Projects** – From data wrangling to training models  
+**Human-centered Tech** – Apps that make a positive impact <br>
+**Interactive Frontend Interfaces** – Clean and accessible 
 
 ---
 
 ## 🛠️ My Tools & Technologies
 
-### 💻 Frontend & Web
+### Frontend & Web
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧠 Machine Learning & Data
+### Machine Learning & Data
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -34,9 +34,9 @@ I'm a **seasoned engineer** bringing a strong problem-solving foundation to **so
 
 ## 🚀 Current Learning Journey
 
-- 🌱 Deepening my understanding of **Data Science**
-- 🤖 Exploring **ML fundamentals** like regression, classification, and neural networks
-- 📊 Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
+- Deepening my understanding of **Data Science**
+- Exploring **ML fundamentals** like regression, classification, and neural networks
+- Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
 
 <!---
 
