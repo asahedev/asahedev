@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I'm an **engineer** bringing a strong problem-solving foundation to **software development**, with a growing focus on **machine learning** and **data science**. I'm passionate about building **clean, intuitive, and impactful** solutions—from responsive web applications to data-driven models that deliver real value.
+I'm an **engineer** bringing a strong problem-solving foundation to **software development**, with a growing focus on **machine learning**, **data science** and **AI agents**. I'm passionate about building **clean, intuitive, and impactful** solutions—from responsive web applications to data-driven models that deliver real value.
 
 > I'm always open to collaboration on meaningful projects. Let's connect and build something great together!
 
