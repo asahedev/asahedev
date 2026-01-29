@@ -8,10 +8,10 @@ I'm an **engineer** bringing a strong problem-solving foundation to **software d
 
 ## 🧩 What I Love Building
 
-**Machine Learning & Data Science Projects** <br>
-**Human-centered Tech**  <br>
-**Interactive Frontend Interfaces** <br> 
-**Useful and Secure AI Agents**  <br>
+- Machine Learning & Data Science Projects <br>
+- Human-centered Tech  <br>
+- Interactive Frontend Interfaces <br> 
+- Useful and Secure AI Agents  <br>
 
 ---
 
