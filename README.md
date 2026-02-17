@@ -1,8 +1,6 @@
 # 👋 Hello
 
-I'm an **engineer** bringing a strong problem-solving foundation to **software development**, with a growing focus on **machine learning**, **data science** and **AI agents**. I'm passionate about building **clean, intuitive, and impactful** solutions—from responsive web applications to data-driven models that deliver real value.
-
-> I'm always open to collaboration on meaningful projects. Let's connect and build something great together!
+I'm a physics engineer with a background in computational neuroscience and a strong interest in machine learning and AI agents. I work with data-driven approaches, with a focus on responsible, transparent, and human-centered AI. Interested in projects at the intersection of science, technology, and real-world impact. Feel free to get in touch.
 
 ---
 
