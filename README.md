@@ -36,7 +36,7 @@ I'm a physics engineer with a background in computational neuroscience and a str
 - Deepening my understanding of **Data Science**
 - Exploring **ML fundamentals** like regression, classification, and neural networks
 - Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
-- Learning more about AI agents and orchestration
+- Learning more about **AI agents** and orchestration
 
 <!---
 
