@@ -28,7 +28,7 @@ I'm a physics engineer with a background in computational neuroscience and a str
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+<!---
 ---
 
 ## 🚀 Current Learning Journey
@@ -37,7 +37,7 @@ I'm a physics engineer with a background in computational neuroscience and a str
 - Exploring **ML fundamentals** like regression, classification, and neural networks
 - Applying ML to real datasets in **Jupyter Notebooks** and **Kaggle** challenges
 - Learning more about **AI agents** and orchestration
-
+-->  
 <!---
 
 ---
