@@ -1,12 +1,13 @@
 # 👋 Hello
 
-I'm a physics engineer with a background in computational neuroscience and a strong interest in machine learning and AI agents. I work with data-driven approaches, with a focus on responsible, transparent, and human-centered AI. Interested in projects at the intersection of science, technology, and real-world impact. Feel free to get in touch.
+I'm a physics engineer with a background in computational neuroscience and a strong interest in machine learning, AI agents and data analytics. I work with data-driven approaches, with a focus on responsible, transparent, and human-centered AI. Interested in projects at the intersection of science, technology, and real-world impact. Feel free to get in touch.
 
 ---
 
 ## 🧩 What I Love Building
 
 - Machine Learning & Data Science Projects <br>
+- Data Analysis to guide decision making <br>
 - Human-centered Tech  <br>
 - Interactive Frontend Interfaces <br> 
 - Useful and Secure AI Agents  <br>
