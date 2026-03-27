@@ -7,7 +7,7 @@ I'm a physics engineer with a background in computational neuroscience and a str
 ## 🧩 What I Love Building
 
 - Machine Learning & Data Science Projects <br>
-- Data Analysis to guide decision making <br>
+- Data Analysis to Guide Decision Making <br>
 - Human-centered Tech  <br>
 - Interactive Frontend Interfaces <br> 
 - Useful and Secure AI Agents  <br>
